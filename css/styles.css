@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.navbar{
+    background-color: rgb(255,92,157);
+    padding: .8rem;
+}
+
+.navbar-nav li{
+    padding-right: 80px;
+}
+
+.nav-link{
+    font-size: 1.1rem;
+    font-weight: 600;
+    
+}
+.img-fluid{
+    width: 100%;
+}
+#navbar_text{
+    text-align: center;
+}
+
+footer{
+    background:  rgb(149, 0, 60);
+    color: whitesmoke;
+    padding-top: 2rem;
+}
+
+hr.light{
+    border-top: 1px solid whitesmoke;
+    width: 100%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+    
+}
+
+.btn-primary{
+    background: rgb(255,92,157);
+    border-color: rgb(255,92,157);
+}
+
+.btn-primary:hover{
+    background: rgb(194, 65, 116);
+    border-color: rgb(194, 65, 116);
+    transition: ease-out;
+}
+
+a{
+    color: rgb(255,92,157);
+}
+
+a:hover{
+    color: rgb(194, 65, 116);
+    text-decoration: none;
+    border: none;
+}
+
+
